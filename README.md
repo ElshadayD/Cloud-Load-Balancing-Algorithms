@@ -26,7 +26,3 @@ The results of the simulation provide valuable insights into the performance and
 
 The generated reports and visualizations help to understand the efficiency and financial implications of running and maintaining the system under different load-balancing algorithms.
 
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
-
